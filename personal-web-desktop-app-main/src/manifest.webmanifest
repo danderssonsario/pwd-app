@@ -1,0 +1,31 @@
+{
+  "name": "Personal Web Desktop",
+  "short_name": "PWD",
+  "description": "A web desktop app containing three sub apps.",
+  "theme_color": "#dbdbdb",
+  "background_color": "#5e5e5e",
+  "display": "fullscreen",
+  "start_url": "./",
+  "icons": [
+      {
+          "src":"img/pwd-images/icon-192x192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+      },
+      {
+          "src":"img/pwd-images/icon-256x256.png",
+          "type": "image/png",
+          "sizes": "256x256"
+      },
+      {
+          "src":"img/pwd-images/icon-384x384.png",
+          "type": "image/png",
+          "sizes": "384x384"
+      },
+            {
+          "src":"img/pwd-images/icon-512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+      }
+  ]
+}
